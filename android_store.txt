@@ -1,1 +1,1 @@
-{"url":"http://dganssa.com/maybach/hot-update/full/"}
+{"version":"1.0.0"}
