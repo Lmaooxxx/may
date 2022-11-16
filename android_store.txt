@@ -1,2 +1,1 @@
-{"version":"1.0.6",
-"url":"http://dganssa.com/maybach/hot-update/android_splash/"}
+{"version":"1.0.7"}
